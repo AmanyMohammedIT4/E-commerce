@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "529517942873",
+    "project_id": "ema-shop-5e386",
+    "storage_bucket": "ema-shop-5e386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529517942873:android:376a1205b8008f462f7948",
+        "android_client_info": {
+          "package_name": "com.example.ema_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529517942873-i5e7a2mkkou3o8gco9jeo00chdo49thm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ema_shop",
+            "certificate_hash": "ce434477c76a8fc3d3763b7de44d92e7e1fc9d74"
+          }
+        },
+        {
+          "client_id": "529517942873-u50fvg16leirspovd39ncttn45vo0esm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClUk0dr6EE8-GXKI8FsWjtnymO0tQohEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529517942873-u50fvg16leirspovd39ncttn45vo0esm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
